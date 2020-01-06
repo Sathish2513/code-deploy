@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo susyemctl status apache2
+sudo systemctl status apache2

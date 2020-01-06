@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello world"
+sudo susyemctl status apache2
